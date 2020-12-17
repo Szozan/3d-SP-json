@@ -1,0 +1,586 @@
+{
+    "nodes": [
+        {
+          "id": "Vision",
+		  "fx":0,
+		  "fy":0,
+		  "fz":100
+        },
+        {
+          "id": "Mission",
+		  "fx":0,
+		  "fy":0,
+		  "fz":40
+        },
+        {
+          "id": "Value: 1",
+		  "fx":0,
+		  "fy":-40,
+		  "fz":130
+        },
+        {
+          "id": "Value: 2",
+		  "fx":-38,
+		  "fy":-12,
+		  "fz":130
+        },
+        {
+          "id": "Value: 3",
+		  "fx":-24,
+		  "fy":32,
+		  "fz":130
+        },
+        {
+          "id": "Value: 4",
+		  "fx":24,
+		  "fy":32,
+		  "fz":130
+        },
+        {
+          "id": "Value: 5",
+		  "fx":38,
+		  "fy":-12,
+		  "fz":130
+        },
+        {
+          "id": "Access/Identify",
+		  "fx":0,
+		  "fy":-100,
+		  "fz":-20
+        },
+        {
+          "id": "Prepare",
+		  "fx":-95,
+		  "fy":-31,
+		  "fz":-20
+        },
+        {
+          "id": "Place",
+		  "fx":-59,
+		  "fy":81,
+		  "fz":-20
+        },
+        {
+          "id": "Retain",
+		  "fx":59,
+		  "fy":81,
+		  "fz":-20
+        },
+        {
+          "id": "Growth/Transition",
+		  "fx":95,
+		  "fy":-31,
+		  "fz":-20
+        },
+        {
+          "id": "Goal 1",
+		  "fx":75,
+		  "fy":-130,
+		  "fz":-75
+        },
+        {
+          "id": "Goal 2",
+		  "fx":-75,
+		  "fy":-130,
+		  "fz":-75
+        },
+        {
+          "id": "Goal 3",
+		  "fx":-150,
+		  "fy":0,
+		  "fz":-75
+        },
+        {
+          "id": "Goal 4",
+		  "fx":-75,
+		  "fy":130,
+		  "fz":-75
+        },
+        {
+          "id": "Goal 5",
+		  "fx":75,
+		  "fy":130,
+		  "fz":-75
+        },
+        {
+          "id": "Goal 6",
+		  "fx":150,
+		  "fy":0,
+		  "fz":-75
+        },
+        {
+          "id": "Objective 1a",
+		  "fx":75,
+		  "fy":-170,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 1b",
+		  "fx":40,
+		  "fy":-110,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 1c",
+		  "fx":110,
+		  "fy":-110,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 2a",
+		  "fx":-75,
+		  "fy":-170,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 2b",
+		  "fx":-110,
+		  "fy":-110,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 2c",
+		  "fx":-40,
+		  "fy":-110,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 3a",
+		  "fx":-122,
+		  "fy":-28,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 3b",
+		  "fx":-178,
+		  "fy":-28,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 3c",
+		  "fx":-178,
+		  "fy":28,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 3d",
+		  "fx":-122,
+		  "fy":28,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 4a",
+		  "fx":-47,
+		  "fy":102,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 4b",
+		  "fx":-103,
+		  "fy":102,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 4c",
+		  "fx":-103,
+		  "fy":158,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 4d",
+		  "fx":-47,
+		  "fy":158,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 5a",
+		  "fx":75,
+		  "fy":90,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 5b",
+		  "fx":40,
+		  "fy":150,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 5c",
+		  "fx":110,
+		  "fy":150,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 6a",
+		  "fx":150,
+		  "fy":-40,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 6b",
+		  "fx":115,
+		  "fy":20,
+		  "fz":-110
+        },
+        {
+          "id": "Objective 6c",
+		  "fx":185,
+		  "fy":20,
+		  "fz":-110
+        },
+        {
+          "id": "Unit action 1",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 2",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 3",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 4",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 5",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 6",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 7",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 8",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 9",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 10",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 11",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 12",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 13",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 14",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 15",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 16",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 17",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 18",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 19",
+		  "fz":-170
+        },
+        {
+          "id": "Unit action 20",
+		  "fz":-170
+        }
+    ],
+    "links": [
+        {
+            "source": "Value: 1",
+            "target": "Vision"
+        },
+		 {
+            "source": "Value: 2",
+            "target": "Vision"
+        },
+		{
+            "source": "Mission",
+            "target": "Vision"
+        },
+		 {
+            "source": "Value: 3",
+            "target": "Vision"
+        },
+		 {
+            "source": "Value: 4",
+            "target": "Vision"
+        },
+		 {
+            "source": "Value: 5",
+            "target": "Vision"
+        },
+		 {
+            "source": "Access/Identify",
+            "target": "Mission"
+        },
+		 {
+            "source": "Prepare",
+            "target": "Mission"
+        },
+		 {
+            "source": "Place",
+            "target": "Mission"
+        },
+		 {
+            "source": "Retain",
+            "target": "Mission"
+        },
+		 {
+            "source": "Growth/Transition",
+            "target": "Mission"
+        },
+		 {
+            "source": "Goal 1",
+            "target": "Access/Identify"
+        },
+		 {
+            "source": "Goal 2",
+            "target": "Access/Identify"
+        },
+		 {
+            "source": "Goal 3",
+            "target": "Prepare"
+        },
+		 {
+            "source": "Goal 4",
+            "target": "Place"
+        },
+		 {
+            "source": "Goal 5",
+            "target": "Retain"
+        },
+		 {
+            "source": "Goal 6",
+            "target": "Growth/Transition"
+        },
+		 {
+            "source": "Access/Identify",
+            "target": "Prepare"
+        },
+		 {
+            "source": "Prepare",
+            "target": "Place"
+        },
+		 {
+            "source": "Place",
+            "target": "Retain"
+        },
+		 {
+            "source": "Retain",
+            "target": "Growth/Transition"
+        },
+		 {
+            "source": "Growth/Transition",
+            "target": "Access/Identify"
+        },
+		 {
+            "source": "Objective 1a",
+            "target": "Goal 1"
+        },
+		 {
+            "source": "Objective 1b",
+            "target": "Goal 1"
+        },
+		 {
+            "source": "Objective 1c",
+            "target": "Goal 1"
+        },
+		 {
+            "source": "Objective 2a",
+            "target": "Goal 2"
+        },
+		 {
+            "source": "Objective 2b",
+            "target": "Goal 2"
+        },
+		 {
+            "source": "Objective 2c",
+            "target": "Goal 2"
+        },
+		 {
+            "source": "Objective 3a",
+            "target": "Goal 3"
+        },
+		 {
+            "source": "Objective 3b",
+            "target": "Goal 3"
+        },
+		 {
+            "source": "Objective 3c",
+            "target": "Goal 3"
+        },
+		 {
+            "source": "Objective 3d",
+            "target": "Goal 3"
+        },
+		 {
+            "source": "Objective 4a",
+            "target": "Goal 4"
+        },
+		 {
+            "source": "Objective 4b",
+            "target": "Goal 4"
+        },
+		 {
+            "source": "Objective 4c",
+            "target": "Goal 4"
+        },
+		 {
+            "source": "Objective 4d",
+            "target": "Goal 4"
+        },
+		 {
+            "source": "Objective 5a",
+            "target": "Goal 5"
+        },
+		 {
+            "source": "Objective 5b",
+            "target": "Goal 5"
+        },
+		 {
+            "source": "Objective 5c",
+            "target": "Goal 5"
+        },
+		 {
+            "source": "Objective 6a",
+            "target": "Goal 6"
+        },
+		 {
+            "source": "Objective 6b",
+            "target": "Goal 6"
+        },
+		 {
+            "source": "Objective 6c",
+            "target": "Goal 6"
+        },
+		 {
+            "source": "Unit action 1",
+            "target": "Objective 1a"
+        },
+		 {
+            "source": "Unit action 2",
+            "target": "Objective 1b"
+        },
+		 {
+            "source": "Unit action 3",
+            "target": "Objective 1c"
+        },
+		 {
+            "source": "Unit action 4",
+            "target": "Objective 2a"
+        },
+		 {
+            "source": "Unit action 5",
+            "target": "Objective 2b"
+        },
+		 {
+            "source": "Unit action 6",
+            "target": "Objective 2c"
+        },
+		 {
+            "source": "Unit action 7",
+            "target": "Objective 3a"
+        },
+		 {
+            "source": "Unit action 8",
+            "target": "Objective 3b"
+        },
+		 {
+            "source": "Unit action 9",
+            "target": "Objective 3c"
+        },
+		 {
+            "source": "Unit action 10",
+            "target": "Objective 3d"
+        },
+		 {
+            "source": "Unit action 11",
+            "target": "Objective 4a"
+        },
+		 {
+            "source": "Unit action 12",
+            "target": "Objective 4b"
+        },
+		 {
+            "source": "Unit action 13",
+            "target": "Objective 4c"
+        },
+		 {
+            "source": "Unit action 14",
+            "target": "Objective 4d"
+        },
+		 {
+            "source": "Unit action 15",
+            "target": "Objective 5a"
+        },
+		 {
+            "source": "Unit action 16",
+            "target": "Objective 5b"
+        },
+		 {
+            "source": "Unit action 17",
+            "target": "Objective 5c"
+        },
+		 {
+            "source": "Unit action 18",
+            "target": "Objective 6a"
+        },
+		 {
+            "source": "Unit action 19",
+            "target": "Objective 6b"
+        },
+		 {
+            "source": "Unit action 20",
+            "target": "Objective 6c"
+        },
+		 {
+            "source": "Unit action 1",
+            "target": "Objective 1b"
+        },
+		 {
+            "source": "Unit action 2",
+            "target": "Objective 1c"
+        },
+		 {
+            "source": "Unit action 4",
+            "target": "Objective 2b"
+        },
+		 {
+            "source": "Unit action 4",
+            "target": "Objective 2c"
+        },
+		 {
+            "source": "Unit action 7",
+            "target": "Objective 3d"
+        },
+		 {
+            "source": "Unit action 8",
+            "target": "Objective 3a"
+        }		
+    ]
+}
