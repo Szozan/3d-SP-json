@@ -4,7 +4,8 @@
           "id": "Vision",
 		  "fx":0,
 		  "fy":0,
-		  "fz":100
+		  "fz":100,
+		  "info": 'An equity-minded educator workforce that facilitates learning and growth for each and every student.'
         },
         {
           "id": "Mission",
