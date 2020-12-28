@@ -5,229 +5,266 @@
 		  "fx":0,
 		  "fy":0,
 		  "fz":100,
-		  "text": "An equity-minded educator workforce that facilitates learning and growth for each and every student."
+		  "text": "Vision: An equity-minded educator workforce that facilitates learning and growth for each and every student."
         },
         {
           "id": "Mission",
 		  "fx":0,
 		  "fy":0,
-		  "fz":40
+		  "fz":40,
+		  "text": "Mission: To strengthen the educator workforce through professional standards, policy, and innovation."
         },
         {
           "id": "Value: 1",
 		  "fx":0,
 		  "fy":-40,
-		  "fz":130
+		  "fz":130,
+		  "text": "Value: Educator voice"
         },
         {
           "id": "Value: 2",
 		  "fx":-38,
 		  "fy":-12,
-		  "fz":130
+		  "fz":130,
+		  "text": "Value: Diversity, equity, and inclusion"
         },
         {
           "id": "Value: 3",
 		  "fx":-24,
 		  "fy":32,
-		  "fz":130
+		  "fz":130,
+		  "text": "Value: Educator excellence for student success"
         },
         {
           "id": "Value: 4",
 		  "fx":24,
 		  "fy":32,
-		  "fz":130
+		  "fz":130,
+		  "text": "Value: Community engagement"
         },
         {
           "id": "Value: 5",
 		  "fx":38,
 		  "fy":-12,
-		  "fz":130
+		  "fz":130,
+		  "text": "Value: Learning and innovation"
         },
         {
           "id": "Access/Identify",
 		  "fx":0,
 		  "fy":-100,
-		  "fz":-20
+		  "fz":-20,
+		  "text": "Educator Career Continuum Area - Access/Identify: Educator candidates are exploring pathways to a career in education."
         },
         {
           "id": "Prepare",
 		  "fx":-95,
 		  "fy":-31,
-		  "fz":-20
+		  "fz":-20,
+		  "text": "Educator Career Continuum Area - Prepare: Preparation programs are developing candidates to meet and exceed educator standards. "
         },
         {
           "id": "Place",
 		  "fx":-59,
 		  "fy":81,
-		  "fz":-20
+		  "fz":-20,
+		  "text": "Educator Career Continuum Area - Place: Students are receiving instruction and services from properly credentialed educators."
         },
         {
           "id": "Retain",
 		  "fx":59,
 		  "fy":81,
-		  "fz":-20
+		  "fz":-20,
+		  "text": "Educator Career Continuum Area - Retain: Educators are engaged in a fulfilling and supportive work environment."
         },
         {
           "id": "Growth/Transition",
 		  "fx":95,
 		  "fy":-31,
-		  "fz":-20
+		  "fz":-20,
+		  "text": "Educator Career Continuum Area - Growth/Transition: Educators are advancing their career, and enhancing their professional skills."
         },
         {
           "id": "Goal 1",
 		  "fx":75,
 		  "fy":-130,
-		  "fz":-75
+		  "fz":-75,
+		  "text": "Goal 1: Washington's educator candidates have multiple pathways to explore and access a career in education."
         },
         {
           "id": "Goal 2",
 		  "fx":-75,
 		  "fy":-130,
-		  "fz":-75
+		  "fz":-75,
+		  "text": "Goal 2: Washington’s educator candidates reflect the demographics of our student population."
         },
         {
           "id": "Goal 3",
 		  "fx":-150,
 		  "fy":0,
-		  "fz":-75
+		  "fz":-75,
+		  "text": "Goal 3: Educators are prepared with the knowledge, skills, and dispositions to facilitate learning for all students."
         },
         {
           "id": "Goal 4",
 		  "fx":-75,
 		  "fy":130,
-		  "fz":-75
+		  "fz":-75,
+		  "text": "Goal 4: All educators are appropriately credentialed for their assignment."
         },
         {
           "id": "Goal 5",
 		  "fx":75,
 		  "fy":130,
-		  "fz":-75
+		  "fz":-75,
+		  "text": "Goal 5: Educators persist in the profession while engaged in a fulfilling and supportive work environment."
         },
         {
           "id": "Goal 6",
 		  "fx":150,
 		  "fy":0,
-		  "fz":-75
+		  "fz":-75,
+		  "text": "Goal 6: Educators have multiple opportunities for learning and growth that best support their career goals."
         },
         {
           "id": "Objective 1a",
 		  "fx":75,
 		  "fy":-170,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 1a: Remove institutional barriers for candidates wanting to participate in the educator workforce."
         },
         {
           "id": "Objective 1b",
 		  "fx":40,
 		  "fy":-110,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 1b: Increase equitable pathways into the profession, such as “grow your own” educator programs."
         },
         {
           "id": "Objective 1c",
 		  "fx":110,
 		  "fy":-110,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 1c: Support incentives for candidates pursuing a pathway towards certification in an educator shortage area."
         },
         {
           "id": "Objective 2a",
 		  "fx":-75,
 		  "fy":-170,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 2a: Increase outreach efforts to promote educator pathway opportunities."
         },
         {
           "id": "Objective 2b",
 		  "fx":-110,
 		  "fy":-110,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 2b: Facilitate collaborative community partnerships to support programs that are responsive to regional workforce needs."
         },
         {
           "id": "Objective 2c",
 		  "fx":-40,
 		  "fy":-110,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 2c: Expand access to support services and resources for underrepresented individuals pursuing a career in education."
         },
         {
           "id": "Objective 3a",
 		  "fx":-122,
 		  "fy":-28,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 3a: Increase and improve culturally responsive and antiracist education for educators and preparation programs."
         },
         {
           "id": "Objective 3b",
 		  "fx":-178,
 		  "fy":-28,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 3b: Strengthen educator preparation through program evaluation for continuous improvement."
         },
         {
           "id": "Objective 3c",
 		  "fx":-178,
 		  "fy":28,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 3c: Increase technical assistance to preparation programs, districts, and community partners to improve the performance of educators and programs."
         },
         {
           "id": "Objective 3d",
 		  "fx":-122,
 		  "fy":28,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 3d: Improve the educator assessment system with policies that advance equitable practices, center student success, and are responsive to educator needs."
         },
         {
           "id": "Objective 4a",
 		  "fx":-47,
 		  "fy":102,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 4a: Increase statewide funding to support districts in providing required paraeducator training."
         },
         {
           "id": "Objective 4b",
 		  "fx":-103,
 		  "fy":102,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 4b: Increase district use of strategies to reduce out of endorsement placements."
         },
         {
           "id": "Objective 4c",
 		  "fx":-103,
 		  "fy":158,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 4c: Improve educator placement to support district workforce needs."
         },
         {
           "id": "Objective 4d",
 		  "fx":-47,
 		  "fy":158,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 4d: Increase collaborative learning between districts and preparation programs to share promising practices for educator placement in shortage areas."
         },
         {
           "id": "Objective 5a",
 		  "fx":75,
 		  "fy":90,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 5a: Increase data tracking on factors that influence educator persistence and retention."
         },
         {
           "id": "Objective 5b",
 		  "fx":40,
 		  "fy":150,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 5b: Increase and elevate retention strategies, such as HR practices and mentorships, that better support educators of color throughout the continuum of their career."
         },
         {
           "id": "Objective 5c",
 		  "fx":110,
 		  "fy":150,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 5c: Explore and expand a system of ethics and conduct in which educators are treated with dignity and respect."
         },
         {
           "id": "Objective 6a",
 		  "fx":150,
 		  "fy":-40,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 6a: Increase equitable opportunities for educators to add credentials and access professional learning options."
         },
         {
           "id": "Objective 6b",
 		  "fx":115,
 		  "fy":20,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 6b: Expand and improve areas of focused learning for all educator roles, particularly in culturally responsive and anti-racist practices."
         },
         {
           "id": "Objective 6c",
 		  "fx":185,
 		  "fy":20,
-		  "fz":-110
+		  "fz":-110,
+		  "text": "Objective 6c: Streamline the professional learning system to better track and recognize the growth and achievements of educators."
         }
     ],
     "links": [
